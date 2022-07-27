@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png "Logo Title Text 1")
 
 
