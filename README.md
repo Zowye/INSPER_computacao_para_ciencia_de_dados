@@ -8,12 +8,12 @@ A disciplina inclui revisão de lógica de programação em Python, além de an�
 
 Conteúdo das pastas:
 
-| Pasta        | Descrição           | Cool  |
+| Pasta        | Descrição           | Dificuldade  |
 | ------------- |:-------------:| -----:|
-| AULA 1 | Intro | $1600 |
-| AULA 2 | Pandas Basics | $1600 |
-| AULA 3 | Pandas Avançado | $1600 |
-| AULA 4 | Gráficos Seaborn & Outros| $1600 |
-| AULA 5 | Manipulação avançada & Altair (Dinamic Plotting) | $1600 |
-| AULA 6 | right-aligned | $1600 |
-| AULA 7 | right-aligned | $1600 |
+| AULA 1 | Intro | 1 |
+| AULA 2 | Pandas Basics | 2 |
+| AULA 3 | Pandas Avançado | 5 |
+| AULA 4 | Gráficos Seaborn & Outros| 6 |
+| AULA 5 | Manipulação avançada & Altair (Dinamic Plotting) | 6 |
+| AULA 6 | Quizz & + Gráficos | 7 |
+| AULA 7 | Programação Funcional | 6 |
