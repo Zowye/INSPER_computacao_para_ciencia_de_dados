@@ -8,11 +8,12 @@ A disciplina inclui revisão de lógica de programação em Python, além de an�
 
 Conteúdo das pastas:
 
-| Tables        | Are           | Cool  |
+| Pasta        | Descrição           | Cool  |
 | ------------- |:-------------:| -----:|
 | AULA 1 | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| AULA 2 | right-aligned | $1600 |
+| AULA 3 | right-aligned | $1600 |
+| AULA 4 | Gráficos Seaborn & Outros| $1600 |
+| AULA 5 | right-aligned | $1600 |
+| AULA 6 | right-aligned | $1600 |
+| AULA 7 | right-aligned | $1600 |
